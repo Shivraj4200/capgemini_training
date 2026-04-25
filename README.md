@@ -6,62 +6,56 @@
 
 ## 🚀 About Me
 
-I am a software engineer with a strong interest in building scalable applications and learning new technologies.  
-During my training at **Capgemini**, I gained hands-on experience in multiple technologies and developed a strong understanding of full-stack development.
+I completed my technical training at **Capgemini**, where I built a strong foundation in full-stack development.
 
 ---
 
-## 🎯 Capgemini Training Journey
+## 🎯 Capgemini Training Highlights
 
-During my training, I worked on various concepts and projects covering:
-
-- ☕ Core Java
-- 🗄️ SQL (Database Management)
-- ⚙️ Advanced Java
-- 🌐 HTML & CSS
-- 🧠 JavaScript
-- 🔷 TypeScript
-- ⚡ Angular (Frontend Framework)
+- ☕ Core Java  
+- 🗄️ SQL  
+- ⚙️ Advanced Java  
+- 🌐 HTML, CSS  
+- 🧠 JavaScript  
+- 🔷 TypeScript  
+- ⚡ Angular  
 
 ---
 
-## 📂 Training Code Repository
+## 🚨 IMPORTANT: Training Code Repository
 
-All my training-related code, practice projects, and assignments are available in my secondary GitHub account:
+<p align="center">
+  <a href="https://github.com/cse-shivraj-jaiswal" target="_blank">
+    <img src="https://img.shields.io/badge/👉 View My Training Work Here-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-👉 **[View My Training Repository](https://github.com/cse-shivraj-jaiswal)**
+---
+
+## 📂 Alternate Access (Direct Link)
+
+👉 https://github.com/cse-shivraj-jaiswal
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Technologies:**
-- Java
-- SQL
-- JavaScript
-- TypeScript
-
-**Frontend:**
-- HTML
-- CSS
-- Angular
+Java | SQL | JavaScript | TypeScript | Angular | HTML | CSS  
 
 ---
 
-## 📈 What I'm Focused On
+## 📈 Current Focus
 
-- Improving problem-solving skills
-- Building real-world applications
-- Exploring advanced Angular concepts
-- Working on innovative projects (like IoT-based systems)
+- Building real-world applications  
+- Strengthening Angular skills  
+- Exploring innovative projects  
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (www.linkedin.com/in/shivraj-jaiswal)
-- 📧 Email: (jaisshivraj143@gmail.com)
+- LinkedIn: www.linkedin.com/in/shivraj-jaiswal  
+- Email: jaisshivraj143@gmail.com
 
 ---
-
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ Explore my work and feel free to connect!
