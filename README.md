@@ -1,44 +1,68 @@
-# 🚀 Capgemini Advanced Java Training
+# 👋 Hi, I'm Shivraj Jaiswal
 
-This repository contains my **Advanced Java training work**, including assignments and assessments completed during the training.
-
----
-
-## 📚 Assignments
-
-You can view all **Advanced Java assignment tasks** here:
-
-🔗 https://github.com/cse-shivraj-jaiswal/advanced-java-assignment-task
-
-You can view all **Core Java assignment tasks** here:
-
-🔗 https://github.com/cse-shivraj-jaiswal/core-java
+🎓 Software Engineer | Passionate about Problem Solving & Web Development  
+💻 Strong foundation in Mathematics and Software Development  
 
 ---
 
-## 📝 Assessment
+## 🚀 About Me
 
-You can view the **Advanced Java assessment work** here:
-
-🔗 https://github.com/cse-shivraj-jaiswal/advanced-java-assessment
-
----
-
-## 🛠️ Technologies Used
-
-* Java
-* JDBC
-* Hibernate
-* Spring Boot
-* Git
-* GitHub
+I am a software engineer with a strong interest in building scalable applications and learning new technologies.  
+During my training at **Capgemini**, I gained hands-on experience in multiple technologies and developed a strong understanding of full-stack development.
 
 ---
 
-## 👨‍💻 Author
+## 🎯 Capgemini Training Journey
 
-**Shivraj Jaiswal**
+During my training, I worked on various concepts and projects covering:
+
+- ☕ Core Java
+- 🗄️ SQL (Database Management)
+- ⚙️ Advanced Java
+- 🌐 HTML & CSS
+- 🧠 JavaScript
+- 🔷 TypeScript
+- ⚡ Angular (Frontend Framework)
 
 ---
 
-⭐ If you find this repository useful, feel free to **star the repo**!
+## 📂 Training Code Repository
+
+All my training-related code, practice projects, and assignments are available in my secondary GitHub account:
+
+👉 **[View My Training Repository](https://github.com/cse-shivraj-jaiswal)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Technologies:**
+- Java
+- SQL
+- JavaScript
+- TypeScript
+
+**Frontend:**
+- HTML
+- CSS
+- Angular
+
+---
+
+## 📈 What I'm Focused On
+
+- Improving problem-solving skills
+- Building real-world applications
+- Exploring advanced Angular concepts
+- Working on innovative projects (like IoT-based systems)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your LinkedIn link)
+- 📧 Email: (Add your email)
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
