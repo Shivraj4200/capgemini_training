@@ -59,8 +59,8 @@ All my training-related code, practice projects, and assignments are available i
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: (www.linkedin.com/in/shivraj-jaiswal)
+- 📧 Email: (jaisshivraj143@gmail.com)
 
 ---
 
