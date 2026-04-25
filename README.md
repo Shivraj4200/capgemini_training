@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shivraj Jaiswal
 
 🎓 Software Engineer | Passionate about Problem Solving & Web Development  
-💻 Strong foundation in Mathematics and Software Development  
 
 ---
 
